@@ -1,4 +1,4 @@
-# Galaxy Image Analysis Project
+# Galaxy Image Analysis and Detection of Black Holes
 
 This project focuses on analysing galaxy images using image processing techniques. We applied filters like Sato and Meijering to different scales of the images to identify distinct features. Our findings suggest the presence of black holes at the core of galaxies.
 
